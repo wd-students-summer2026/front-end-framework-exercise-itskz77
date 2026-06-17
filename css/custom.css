@@ -1,0 +1,11 @@
+body {
+  line-height: 1.6;
+}
+
+.card-border {
+  border: 1px solid #dddddd;
+}
+
+.site-note {
+  color: #555555;
+}
